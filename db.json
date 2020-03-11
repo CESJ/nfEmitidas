@@ -4,7 +4,9 @@
       {"instancia":"USC", "noNf":7183.0, "cdSerieNf":"2", "fazenda":"SITIO EVANGELISTA", "vlLiqNf":14681.65},
       {"instancia":"USC","noNf":7195.0,"cdSerieNf":"2","fazenda":"SITIO SAO JOAQUIM","vlLiqNf":26287.52},
       {"instancia":"USC","noNf":7196.0,"cdSerieNf":"2","fazenda":"SITIO SAO JOSE CRUZEIRO","vlLiqNf":73672.7},
-      {"instancia":"USC","noNf":7197.0,"cdSerieNf":"2","fazenda":"SITIO SAO JOSE CRUZEIRO","vlLiqNf":34270.9}
+      {"instancia":"USC","noNf":7197.0,"cdSerieNf":"2","fazenda":"SITIO SAO JOSE CRUZEIRO","vlLiqNf":34270.9},
+      {"instancia":"USC","noNf":7211.0,"cdSerieNf":"2","fazenda":"FAZENDA SANTA MARIA","vlLiqNf":13148.56},
+      {"instancia":"USC","noNf":7212.0,"cdSerieNf":"2","fazenda":"SITIO SANTA HELENA","vlLiqNf":10355.92}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
