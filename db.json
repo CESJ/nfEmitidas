@@ -1,1 +1,284 @@
-{"notas": [{"instancia":"USC","noNf":7195.0,"cdSerieNf":"2","fazenda":"SITIO SAO JOAQUIM","vlLiqNf":26287.52},{"instancia":"USC","noNf":7196.0,"cdSerieNf":"2","fazenda":"SITIO SAO JOSE CRUZEIRO","vlLiqNf":73672.7},{"instancia":"USC","noNf":7197.0,"cdSerieNf":"2","fazenda":"SITIO SAO JOSE CRUZEIRO","vlLiqNf":34270.9},{"instancia":"USC","noNf":7198.0,"cdSerieNf":"2","fazenda":"SITIO SAO MANOEL","vlLiqNf":15936.34},{"instancia":"USC","noNf":7199.0,"cdSerieNf":"2","fazenda":"SITIO SAO MATHEUS","vlLiqNf":23275.54},{"instancia":"USC","noNf":7200.0,"cdSerieNf":"2","fazenda":"SITIO SAO MATHEUS","vlLiqNf":2855.78},{"instancia":"USC","noNf":7201.0,"cdSerieNf":"2","fazenda":"SITIO SAO PEDRO PALHEIRINHO","vlLiqNf":37612.64},{"instancia":"USC","noNf":7202.0,"cdSerieNf":"2","fazenda":"SITIO SAO SEBASTIAO","vlLiqNf":27469.04},{"instancia":"USC","noNf":7203.0,"cdSerieNf":"2","fazenda":"FAZ NOSSA SRA DAS GRACAS","vlLiqNf":165490.82},{"instancia":"USC","noNf":7204.0,"cdSerieNf":"2","fazenda":"FAZ NOSSA SRA DAS GRACAS","vlLiqNf":96640.15},{"instancia":"USC","noNf":7205.0,"cdSerieNf":"2","fazenda":"SITIO SAO MANOEL","vlLiqNf":4054.75},{"instancia":"USC","noNf":7206.0,"cdSerieNf":"2","fazenda":"FAZENDA SANTA STELA","vlLiqNf":61625.59},{"instancia":"USC","noNf":7207.0,"cdSerieNf":"2","fazenda":"FAZENDA SAO JOSE","vlLiqNf":18234.41},{"instancia":"USC","noNf":7208.0,"cdSerieNf":"2","fazenda":"FAZENDA SAO MARCOS","vlLiqNf":14209.76},{"instancia":"USC","noNf":7209.0,"cdSerieNf":"2","fazenda":"SITIO SANTA CRUZ DA GRAMINHA","vlLiqNf":32194.55},{"instancia":"USC","noNf":7210.0,"cdSerieNf":"2","fazenda":"SITIO SANTA JOANA","vlLiqNf":4779.34},{"instancia":"USC","noNf":7211.0,"cdSerieNf":"2","fazenda":"FAZENDA SANTA MARIA","vlLiqNf":13148.56},{"instancia":"USC","noNf":7212.0,"cdSerieNf":"2","fazenda":"SITIO SANTA HELENA","vlLiqNf":10355.92},{"instancia":"USC","noNf":7213.0,"cdSerieNf":"2","fazenda":"SITIO LAGOA","vlLiqNf":875.94},{"instancia":"USC","noNf":7214.0,"cdSerieNf":"2","fazenda":"SITIO RETIRO SAO BENTO","vlLiqNf":40424.94},{"instancia":"USC","noNf":7184.0,"cdSerieNf":"2","fazenda":"SITIO INDAIA","vlLiqNf":9350.63},{"instancia":"USC","noNf":7185.0,"cdSerieNf":"2","fazenda":"SITIO NOSSA SENHORA APARECIDA","vlLiqNf":17868.18},{"instancia":"USC","noNf":7186.0,"cdSerieNf":"2","fazenda":"SITIO PALMITAL","vlLiqNf":8005.36},{"instancia":"USC","noNf":7187.0,"cdSerieNf":"2","fazenda":"SITIO PARAISO","vlLiqNf":11328.53},{"instancia":"USC","noNf":7188.0,"cdSerieNf":"2","fazenda":"SITIO RECANTO","vlLiqNf":7583.41},{"instancia":"USC","noNf":7189.0,"cdSerieNf":"2","fazenda":"SITIO RETIRO DO COCO","vlLiqNf":24057.84},{"instancia":"USC","noNf":7190.0,"cdSerieNf":"2","fazenda":"SITIO RETIRO DO COCO","vlLiqNf":34401.87},{"instancia":"USC","noNf":7191.0,"cdSerieNf":"2","fazenda":"SITIO SANTA HELENA","vlLiqNf":38361.49},{"instancia":"USC","noNf":7192.0,"cdSerieNf":"2","fazenda":"SITIO SAO CARLOS","vlLiqNf":12273.24},{"instancia":"USC","noNf":7069.0,"cdSerieNf":"2","fazenda":"SITIO SAO SEBASTIAO","vlLiqNf":7415.37},{"instancia":"USC","noNf":7070.0,"cdSerieNf":"2","fazenda":"FAZENDA SAO JORGE","vlLiqNf":28952.08},{"instancia":"USC","noNf":7071.0,"cdSerieNf":"2","fazenda":"FAZENDA SAO JORGE","vlLiqNf":7628.46},{"instancia":"USC","noNf":7072.0,"cdSerieNf":"2","fazenda":"SITIO SAO LUIZ","vlLiqNf":7256.81},{"instancia":"USC","noNf":7073.0,"cdSerieNf":"2","fazenda":"FAZENDA SANTA LUIZA","vlLiqNf":56671.45},{"instancia":"USC","noNf":7074.0,"cdSerieNf":"2","fazenda":"SITIO SANTA RITA DE CASSIA","vlLiqNf":44900.45},{"instancia":"USC","noNf":7075.0,"cdSerieNf":"2","fazenda":"FAZENDA BELA VISTA","vlLiqNf":2398.94},{"instancia":"USC","noNf":7076.0,"cdSerieNf":"2","fazenda":"FAZENDA BELA VISTA","vlLiqNf":17934.94},{"instancia":"USC","noNf":7077.0,"cdSerieNf":"2","fazenda":"FAZENDA SANTA CLOTILDE","vlLiqNf":55669.84},{"instancia":"USC","noNf":7078.0,"cdSerieNf":"2","fazenda":"SITIO TIJUCO","vlLiqNf":17559.19},{"instancia":"USC","noNf":7079.0,"cdSerieNf":"2","fazenda":"SITIO PALMITAL","vlLiqNf":2036.73},{"instancia":"USC","noNf":7080.0,"cdSerieNf":"2","fazenda":"SITIO SAO MATHEUS","vlLiqNf":7181.62},{"instancia":"USC","noNf":7081.0,"cdSerieNf":"2","fazenda":"SITIO SANTA ROSA","vlLiqNf":9041.12},{"instancia":"USC","noNf":7082.0,"cdSerieNf":"2","fazenda":"SITIO SAO JOAO","vlLiqNf":4960.57},{"instancia":"USC","noNf":7083.0,"cdSerieNf":"2","fazenda":"SITIO SAO JOAO","vlLiqNf":21166.23},{"instancia":"USC","noNf":7084.0,"cdSerieNf":"2","fazenda":"SITIO SAO JOAO","vlLiqNf":3205.72},{"instancia":"USC","noNf":7085.0,"cdSerieNf":"2","fazenda":"FAZENDA BELA VISTA","vlLiqNf":13492.17},{"instancia":"USC","noNf":7086.0,"cdSerieNf":"2","fazenda":"FAZENDA GERMANIA","vlLiqNf":103584.46},{"instancia":"USC","noNf":7087.0,"cdSerieNf":"2","fazenda":"SITIO SAO JOAO","vlLiqNf":33384.14},{"instancia":"USC","noNf":7088.0,"cdSerieNf":"2","fazenda":"FAZENDA LAGOA","vlLiqNf":72.88},{"instancia":"USC","noNf":7089.0,"cdSerieNf":"2","fazenda":"FAZENDA SANTA OLIVIA","vlLiqNf":98896.38},{"instancia":"USC","noNf":7090.0,"cdSerieNf":"2","fazenda":"FAZENDA SANTA OLIVIA","vlLiqNf":22500.0},{"instancia":"USC","noNf":7091.0,"cdSerieNf":"2","fazenda":"SITIO SANTO ANTONIO","vlLiqNf":30295.71},{"instancia":"USC","noNf":7092.0,"cdSerieNf":"2","fazenda":"FAZENDA CORREGO DO RUMO","vlLiqNf":47198.02},{"instancia":"USC","noNf":7226.0,"cdSerieNf":"2","fazenda":"SITIO SANTA JULIA","vlLiqNf":26748.52},{"instancia":"USC","noNf":7227.0,"cdSerieNf":"2","fazenda":"SITIO SANTA ROSA","vlLiqNf":5359.2},{"instancia":"USC","noNf":7228.0,"cdSerieNf":"2","fazenda":"FAZENDA E HARAS LAGOINHA","vlLiqNf":5835.81},{"instancia":"USC","noNf":7229.0,"cdSerieNf":"2","fazenda":"SITIO SANTA JOANA I I","vlLiqNf":68427.04},{"instancia":"USC","noNf":7230.0,"cdSerieNf":"2","fazenda":"FAZENDA SANTA MARIA","vlLiqNf":30815.24},{"instancia":"USC","noNf":7231.0,"cdSerieNf":"2","fazenda":"SITIO BELA VISTA","vlLiqNf":10580.92},{"instancia":"USC","noNf":7232.0,"cdSerieNf":"2","fazenda":"SITIO SANTO ANTONIO","vlLiqNf":13284.69},{"instancia":"USC","noNf":7233.0,"cdSerieNf":"2","fazenda":"SITIO PARAISO","vlLiqNf":3424.02},{"instancia":"USC","noNf":7234.0,"cdSerieNf":"2","fazenda":"SITIO BOM JESUS","vlLiqNf":55736.6},{"instancia":"USC","noNf":7235.0,"cdSerieNf":"2","fazenda":"FAZENDA ALVORADA","vlLiqNf":7315.02},{"instancia":"USC","noNf":7236.0,"cdSerieNf":"2","fazenda":"FAZENDA BELA VISTA","vlLiqNf":4113.33},{"instancia":"USC","noNf":7237.0,"cdSerieNf":"2","fazenda":"FAZENDA LAGOA","vlLiqNf":51.89},{"instancia":"USC","noNf":7238.0,"cdSerieNf":"2","fazenda":"FAZENDA LAGOA","vlLiqNf":35633.09},{"instancia":"USC","noNf":7239.0,"cdSerieNf":"2","fazenda":"FAZENDA SANTA CRUZ","vlLiqNf":9766.03},{"instancia":"USC","noNf":7240.0,"cdSerieNf":"2","fazenda":"FAZENDA SANTA FILOMENA CRUZEIRO","vlLiqNf":23975.23},{"instancia":"USC","noNf":7241.0,"cdSerieNf":"2","fazenda":"FAZENDA SANTA MARIA","vlLiqNf":24079.2},{"instancia":"USC","noNf":7242.0,"cdSerieNf":"2","fazenda":"FAZENDA SANTANA","vlLiqNf":7351.3},{"instancia":"USC","noNf":7243.0,"cdSerieNf":"2","fazenda":"FAZENDA SANTO ANTONIO","vlLiqNf":20935.1},{"instancia":"USC","noNf":7244.0,"cdSerieNf":"2","fazenda":"FAZENDA SAO BENTO","vlLiqNf":13677.65},{"instancia":"USC","noNf":7245.0,"cdSerieNf":"2","fazenda":"FAZENDA SAO CARLOS","vlLiqNf":19472.11},{"instancia":"USC","noNf":7246.0,"cdSerieNf":"2","fazenda":"SITIO BOA ESPERANCA","vlLiqNf":1996.29},{"instancia":"USC","noNf":7247.0,"cdSerieNf":"2","fazenda":"SITIO ESTIVA","vlLiqNf":3905.86},{"instancia":"USC","noNf":7248.0,"cdSerieNf":"2","fazenda":"SITIO EVANGELISTA","vlLiqNf":8017.88},{"instancia":"USC","noNf":7224.0,"cdSerieNf":"2","fazenda":"PAULO DE ARAUJO RODRIGUES E OUTROS","vlLiqNf":84613.19},{"instancia":"USC","noNf":7225.0,"cdSerieNf":"2","fazenda":"FAZENDA SANTA ISABEL","vlLiqNf":24941.1},{"instancia":"USC","noNf":7249.0,"cdSerieNf":"2","fazenda":"SITIO EVANGELISTA","vlLiqNf":6297.67},{"instancia":"USC","noNf":7250.0,"cdSerieNf":"2","fazenda":"SITIO INDAIA","vlLiqNf":4007.46},{"instancia":"USC","noNf":7253.0,"cdSerieNf":"2","fazenda":"SITIO SAO MATHEUS","vlLiqNf":1227.76},{"instancia":"USC","noNf":7254.0,"cdSerieNf":"2","fazenda":"FAZENDA BERTATE","vlLiqNf":14467.55},{"instancia":"USC","noNf":7251.0,"cdSerieNf":"2","fazenda":"SITIO N SRA APARECIDA","vlLiqNf":7706.46},{"instancia":"USC","noNf":7252.0,"cdSerieNf":"2","fazenda":"SITIO RECANTO","vlLiqNf":3250.03},{"instancia":"USC","noNf":7093.0,"cdSerieNf":"2","fazenda":"FAZENDA CORREGO DO RUMO","vlLiqNf":50855.9},{"instancia":"USC","noNf":7094.0,"cdSerieNf":"2","fazenda":"FAZENDA CORREGO DO RUMO","vlLiqNf":7825.21},{"instancia":"USC","noNf":7095.0,"cdSerieNf":"2","fazenda":"SITIO BOA VISTA","vlLiqNf":1700.42},{"instancia":"USC","noNf":7257.0,"cdSerieNf":"2","fazenda":"SITIO SAO BENTO","vlLiqNf":11519.21},{"instancia":"USC","noNf":7258.0,"cdSerieNf":"2","fazenda":"SITIO SAO BENTO","vlLiqNf":7910.91},{"instancia":"USC","noNf":7255.0,"cdSerieNf":"2","fazenda":"FAZENDA SANTA MARIA","vlLiqNf":64418.35},{"instancia":"USC","noNf":7256.0,"cdSerieNf":"2","fazenda":"SITIO SAO BENEDITO","vlLiqNf":42577.93},{"instancia":"USC","noNf":7215.0,"cdSerieNf":"2","fazenda":"FAZENDA ALVORADA","vlLiqNf":7321.33},{"instancia":"USC","noNf":7216.0,"cdSerieNf":"2","fazenda":"FAZENDA BELA VISTA","vlLiqNf":4113.33},{"instancia":"USC","noNf":7217.0,"cdSerieNf":"2","fazenda":"SITIO LARANJAL","vlLiqNf":22314.63},{"instancia":"USC","noNf":7218.0,"cdSerieNf":"2","fazenda":"SITIO LARANJAL","vlLiqNf":3113.72},{"instancia":"USC","noNf":7219.0,"cdSerieNf":"2","fazenda":"SITIO SANTO ANTONIO","vlLiqNf":9396.21},{"instancia":"USC","noNf":7220.0,"cdSerieNf":"2","fazenda":"SITIO SANTO ANTONIO","vlLiqNf":4091.38},{"instancia":"USC","noNf":7221.0,"cdSerieNf":"2","fazenda":"SITIO SAO SEBASTIAO","vlLiqNf":20194.99},{"instancia":"USC","noNf":7222.0,"cdSerieNf":"2","fazenda":"SITIO SAO MATHEUS","vlLiqNf":13975.57},{"instancia":"USC","noNf":7223.0,"cdSerieNf":"2","fazenda":"FAZENDA BELA VISTA","vlLiqNf":21291.39},{"instancia":"USC","noNf":7131.0,"cdSerieNf":"2","fazenda":"SITIO RETIRO DO COCO","vlLiqNf":6495.53},{"instancia":"USC","noNf":7132.0,"cdSerieNf":"2","fazenda":"SITIO RETIRO DO COCO","vlLiqNf":10399.86},{"instancia":"USC","noNf":7133.0,"cdSerieNf":"2","fazenda":"SITIO SAO JOAO","vlLiqNf":4542.44},{"instancia":"USC","noNf":7134.0,"cdSerieNf":"2","fazenda":"FAZENDA SAO BERNARDO","vlLiqNf":7840.66},{"instancia":"USC","noNf":7135.0,"cdSerieNf":"2","fazenda":"SITIO SANTA TEODORA","vlLiqNf":689.04},{"instancia":"USC","noNf":7136.0,"cdSerieNf":"2","fazenda":"QUINTA SAO GABRIEL","vlLiqNf":23004.29},{"instancia":"USC","noNf":7137.0,"cdSerieNf":"2","fazenda":"FAZENDA SANTA CECILIA","vlLiqNf":594735.28},{"instancia":"USC","noNf":7138.0,"cdSerieNf":"2","fazenda":"SITIO SANTA CANDIDA","vlLiqNf":92915.61},{"instancia":"USC","noNf":7139.0,"cdSerieNf":"2","fazenda":"FAZENDA CANADA","vlLiqNf":132634.07},{"instancia":"USC","noNf":7140.0,"cdSerieNf":"2","fazenda":"FAZENDA CANADA","vlLiqNf":29139.19},{"instancia":"USC","noNf":7141.0,"cdSerieNf":"2","fazenda":"SITIO SAO PEDRO DO PALHEIRINHO","vlLiqNf":31923.53},{"instancia":"USC","noNf":7142.0,"cdSerieNf":"2","fazenda":"SITIO CORREGO DO MICO","vlLiqNf":5052.8},{"instancia":"USC","noNf":7143.0,"cdSerieNf":"2","fazenda":"FAZENDA SAO LOURENCO","vlLiqNf":37987.85},{"instancia":"USC","noNf":7144.0,"cdSerieNf":"2","fazenda":"FAZENDA SAO LOURENCO","vlLiqNf":27066.41},{"instancia":"USC","noNf":7145.0,"cdSerieNf":"2","fazenda":"FAZENDA SAO LOURENCO","vlLiqNf":27061.97},{"instancia":"USC","noNf":7146.0,"cdSerieNf":"2","fazenda":"FAZENDA SAO LOURENCO","vlLiqNf":16316.31},{"instancia":"USC","noNf":7147.0,"cdSerieNf":"2","fazenda":"SITIO TIJUCO","vlLiqNf":24078.12},{"instancia":"USC","noNf":7148.0,"cdSerieNf":"2","fazenda":"FAZENDA SAO JOSE","vlLiqNf":22964.71},{"instancia":"USC","noNf":7149.0,"cdSerieNf":"2","fazenda":"SITIO SAO JOAO","vlLiqNf":3647.26},{"instancia":"USC","noNf":7150.0,"cdSerieNf":"2","fazenda":"SITIO SAO PEDRO","vlLiqNf":38133.71},{"instancia":"USC","noNf":7151.0,"cdSerieNf":"2","fazenda":"FAZENDA TABARANA - GLEBA C","vlLiqNf":23642.8},{"instancia":"USC","noNf":7152.0,"cdSerieNf":"2","fazenda":"FAZENDA TABARANA - GLEBA D","vlLiqNf":23642.8},{"instancia":"USC","noNf":7099.0,"cdSerieNf":"2","fazenda":"SITIO BELA VISTA","vlLiqNf":15310.62},{"instancia":"USC","noNf":7100.0,"cdSerieNf":"2","fazenda":"SITIO DA PAZ","vlLiqNf":2600.97},{"instancia":"USC","noNf":7101.0,"cdSerieNf":"2","fazenda":"FAZENDA BOM RETIRO","vlLiqNf":228946.72},{"instancia":"USC","noNf":7102.0,"cdSerieNf":"2","fazenda":"SITIO NOSSA SRA APARECIDA","vlLiqNf":3459.44},{"instancia":"USC","noNf":7103.0,"cdSerieNf":"2","fazenda":"SITIO COSME DAMIAO","vlLiqNf":83690.95},{"instancia":"USC","noNf":7104.0,"cdSerieNf":"2","fazenda":"SITIO SANTO ANTONIO","vlLiqNf":36731.19},{"instancia":"USC","noNf":7105.0,"cdSerieNf":"2","fazenda":"PLANALTO SAO JORGE","vlLiqNf":12230.92},{"instancia":"USC","noNf":7106.0,"cdSerieNf":"2","fazenda":"SITIO SANTA IZABEL","vlLiqNf":15275.87},{"instancia":"USC","noNf":7107.0,"cdSerieNf":"2","fazenda":"SITIO SANTO IZIDRO","vlLiqNf":27677.2},{"instancia":"USC","noNf":7108.0,"cdSerieNf":"2","fazenda":"FAZENDA CHAPADAO","vlLiqNf":50991.25},{"instancia":"USC","noNf":7109.0,"cdSerieNf":"2","fazenda":"SITIO SAO JOAO","vlLiqNf":25720.58},{"instancia":"USC","noNf":7110.0,"cdSerieNf":"2","fazenda":"FAZENDA GERMANIA","vlLiqNf":55449.99},{"instancia":"USC","noNf":7111.0,"cdSerieNf":"2","fazenda":"FAZENDA GERMANIA","vlLiqNf":26463.12},{"instancia":"USC","noNf":7112.0,"cdSerieNf":"2","fazenda":"SITIO CONSTANTINO","vlLiqNf":41929.54},{"instancia":"USC","noNf":7113.0,"cdSerieNf":"2","fazenda":"SITIO SERTAOZINHO","vlLiqNf":41286.66},{"instancia":"USC","noNf":7114.0,"cdSerieNf":"2","fazenda":"SITIO LAGOA","vlLiqNf":3503.75},{"instancia":"USC","noNf":7115.0,"cdSerieNf":"2","fazenda":"SITIO SAO BENEDITO","vlLiqNf":4380.91},{"instancia":"USC","noNf":7116.0,"cdSerieNf":"2","fazenda":"FAZENDA CRUZEIRO","vlLiqNf":30986.58},{"instancia":"USC","noNf":7117.0,"cdSerieNf":"2","fazenda":"FAZENDA FRONTEIRA","vlLiqNf":1912.94},{"instancia":"USC","noNf":7118.0,"cdSerieNf":"2","fazenda":"FAZENDA SANTA FE","vlLiqNf":19359.94},{"instancia":"USC","noNf":7096.0,"cdSerieNf":"2","fazenda":"SITIO SANTA ROSA","vlLiqNf":47608.71},{"instancia":"USC","noNf":7097.0,"cdSerieNf":"2","fazenda":"SITIO SAO ROQUE","vlLiqNf":18711.57},{"instancia":"USC","noNf":7098.0,"cdSerieNf":"2","fazenda":"FAZENDA SANTA MARIA","vlLiqNf":30827.8},{"instancia":"USC","noNf":7153.0,"cdSerieNf":"2","fazenda":"SITIO SAO JOAO","vlLiqNf":23596.23},{"instancia":"USC","noNf":7119.0,"cdSerieNf":"2","fazenda":"SITIO SAO JOAO","vlLiqNf":1902.87},{"instancia":"USC","noNf":7154.0,"cdSerieNf":"2","fazenda":"SITIO SAO JUDAS TADEU","vlLiqNf":10112.68},{"instancia":"USC","noNf":7155.0,"cdSerieNf":"2","fazenda":"CHACARA CORREGO DO MICO","vlLiqNf":2904.69},{"instancia":"USC","noNf":7156.0,"cdSerieNf":"2","fazenda":"FAZENDA ALVORADA","vlLiqNf":24493.02},{"instancia":"USC","noNf":7157.0,"cdSerieNf":"2","fazenda":"FAZENDA ALVORADA","vlLiqNf":24493.02},{"instancia":"USC","noNf":7158.0,"cdSerieNf":"2","fazenda":"FAZENDA CRUZEIRO","vlLiqNf":74004.11},{"instancia":"USC","noNf":7159.0,"cdSerieNf":"2","fazenda":"COINBRA CRESCIUMAL S/A","vlLiqNf":16098.53},{"instancia":"USC","noNf":7161.0,"cdSerieNf":"2","fazenda":"FAZENDA FRONTEIRA","vlLiqNf":4568.59},{"instancia":"USC","noNf":7162.0,"cdSerieNf":"2","fazenda":"FAZENDA LAGOA","vlLiqNf":165.52},{"instancia":"USC","noNf":7163.0,"cdSerieNf":"2","fazenda":"FAZENDA LAGOA","vlLiqNf":121.02},{"instancia":"USC","noNf":7164.0,"cdSerieNf":"2","fazenda":"FAZENDA LAGOA","vlLiqNf":83143.87},{"instancia":"USC","noNf":7165.0,"cdSerieNf":"2","fazenda":"FAZENDA RIO CLARO","vlLiqNf":20192.0},{"instancia":"USC","noNf":7166.0,"cdSerieNf":"2","fazenda":"FAZENDA SANTA CRUZ","vlLiqNf":22787.41},{"instancia":"USC","noNf":7167.0,"cdSerieNf":"2","fazenda":"FAZENDA SANTA FE","vlLiqNf":46236.62},{"instancia":"USC","noNf":7168.0,"cdSerieNf":"2","fazenda":"FAZENDA SANTA FILOMENA CRUZEIRO","vlLiqNf":55942.21},{"instancia":"USC","noNf":7169.0,"cdSerieNf":"2","fazenda":"FAZENDA SANTA MARIA","vlLiqNf":56184.8},{"instancia":"USC","noNf":7170.0,"cdSerieNf":"2","fazenda":"FAZENDA SANTANA","vlLiqNf":17153.02},{"instancia":"USC","noNf":7171.0,"cdSerieNf":"2","fazenda":"FAZENDA SANTO ANTONIO","vlLiqNf":48848.58},{"instancia":"USC","noNf":7172.0,"cdSerieNf":"2","fazenda":"FAZENDA SAO BENTO","vlLiqNf":31914.51},{"instancia":"USC","noNf":7173.0,"cdSerieNf":"2","fazenda":"FAZENDA SAO CARLOS","vlLiqNf":45434.93},{"instancia":"USC","noNf":7174.0,"cdSerieNf":"2","fazenda":"FAZENDA SAO CARLOS","vlLiqNf":260.32},{"instancia":"USC","noNf":7175.0,"cdSerieNf":"2","fazenda":"FAZENDA SAO JOAO DO BARREIRO","vlLiqNf":54242.5},{"instancia":"USC","noNf":7177.0,"cdSerieNf":"2","fazenda":"FAZENDA SAO JOSE","vlLiqNf":71985.04},{"instancia":"USC","noNf":7178.0,"cdSerieNf":"2","fazenda":"FAZENDA SAO LOURENCO","vlLiqNf":44175.24},{"instancia":"USC","noNf":7179.0,"cdSerieNf":"2","fazenda":"SITIO BELA VISTA","vlLiqNf":5056.45},{"instancia":"USC","noNf":7180.0,"cdSerieNf":"2","fazenda":"SITIO BOA ESPERANCA","vlLiqNf":4673.88},{"instancia":"USC","noNf":7181.0,"cdSerieNf":"2","fazenda":"SITIO ESTIVA","vlLiqNf":9113.66},{"instancia":"USC","noNf":7182.0,"cdSerieNf":"2","fazenda":"SITIO EVANGELISTA","vlLiqNf":18704.17},{"instancia":"USC","noNf":7120.0,"cdSerieNf":"2","fazenda":"SITIO SAO JOSE CRUZEIRO","vlLiqNf":30847.82},{"instancia":"USC","noNf":7121.0,"cdSerieNf":"2","fazenda":"SITIO SAO JOSE CRUZEIRO","vlLiqNf":14355.73},{"instancia":"USC","noNf":7122.0,"cdSerieNf":"2","fazenda":"FAZENDA BOA ESPERANCA","vlLiqNf":268914.83},{"instancia":"USC","noNf":7123.0,"cdSerieNf":"2","fazenda":"FAZENDA SANTA JULIA","vlLiqNf":7838.13},{"instancia":"USC","noNf":7124.0,"cdSerieNf":"2","fazenda":"SITIO SANTA RITA","vlLiqNf":17364.88},{"instancia":"USC","noNf":7125.0,"cdSerieNf":"2","fazenda":"FAZENDA ESTIVA","vlLiqNf":11265.35},{"instancia":"USC","noNf":7126.0,"cdSerieNf":"2","fazenda":"FAZ SAO JOAO DO BARREIRO","vlLiqNf":22247.16},{"instancia":"USC","noNf":7127.0,"cdSerieNf":"2","fazenda":"FAZENDA SAO JOAQUIM","vlLiqNf":84879.3},{"instancia":"USC","noNf":7128.0,"cdSerieNf":"2","fazenda":"SITIO SAO JOSE","vlLiqNf":6476.21},{"instancia":"USC","noNf":7129.0,"cdSerieNf":"2","fazenda":"SITIO SAO JUDAS TADEU","vlLiqNf":44669.09},{"instancia":"USC","noNf":7130.0,"cdSerieNf":"2","fazenda":"CHACARA BALDAN","vlLiqNf":4582.12},{"instancia":"USC","noNf":7259.0,"cdSerieNf":"2","fazenda":"FAZENDA TANQUINHO I","vlLiqNf":222787.42},{"instancia":"USC","noNf":7183.0,"cdSerieNf":"2","fazenda":"SITIO EVANGELISTA","vlLiqNf":14681.65}]}
+{
+   "notas":[
+      {
+         "instancia":"USC",
+         "noNf":7154.0,
+         "cdSerieNf":"2",
+         "fazenda":"SITIO SAO JUDAS TADEU",
+         "vlLiqNf":10112.68
+      },
+      {
+         "instancia":"USC",
+         "noNf":7155.0,
+         "cdSerieNf":"2",
+         "fazenda":"CHACARA CORREGO DO MICO",
+         "vlLiqNf":2904.69
+      },
+      {
+         "instancia":"USC",
+         "noNf":7156.0,
+         "cdSerieNf":"2",
+         "fazenda":"FAZENDA ALVORADA",
+         "vlLiqNf":24493.02
+      },
+      {
+         "instancia":"USC",
+         "noNf":7157.0,
+         "cdSerieNf":"2",
+         "fazenda":"FAZENDA ALVORADA",
+         "vlLiqNf":24493.02
+      },
+      {
+         "instancia":"USC",
+         "noNf":7158.0,
+         "cdSerieNf":"2",
+         "fazenda":"FAZENDA CRUZEIRO",
+         "vlLiqNf":74004.11
+      },
+      {
+         "instancia":"USC",
+         "noNf":7159.0,
+         "cdSerieNf":"2",
+         "fazenda":"COINBRA CRESCIUMAL S/A",
+         "vlLiqNf":16098.53
+      },
+      {
+         "instancia":"USC",
+         "noNf":7161.0,
+         "cdSerieNf":"2",
+         "fazenda":"FAZENDA FRONTEIRA",
+         "vlLiqNf":4568.59
+      },
+      {
+         "instancia":"USC",
+         "noNf":7162.0,
+         "cdSerieNf":"2",
+         "fazenda":"FAZENDA LAGOA",
+         "vlLiqNf":165.52
+      },
+      {
+         "instancia":"USC",
+         "noNf":7163.0,
+         "cdSerieNf":"2",
+         "fazenda":"FAZENDA LAGOA",
+         "vlLiqNf":121.02
+      },
+      {
+         "instancia":"USC",
+         "noNf":7164.0,
+         "cdSerieNf":"2",
+         "fazenda":"FAZENDA LAGOA",
+         "vlLiqNf":83143.87
+      },
+      {
+         "instancia":"USC",
+         "noNf":7165.0,
+         "cdSerieNf":"2",
+         "fazenda":"FAZENDA RIO CLARO",
+         "vlLiqNf":20192.0
+      },
+      {
+         "instancia":"USC",
+         "noNf":7166.0,
+         "cdSerieNf":"2",
+         "fazenda":"FAZENDA SANTA CRUZ",
+         "vlLiqNf":22787.41
+      },
+      {
+         "instancia":"USC",
+         "noNf":7167.0,
+         "cdSerieNf":"2",
+         "fazenda":"FAZENDA SANTA FE",
+         "vlLiqNf":46236.62
+      },
+      {
+         "instancia":"USC",
+         "noNf":7168.0,
+         "cdSerieNf":"2",
+         "fazenda":"FAZENDA SANTA FILOMENA CRUZEIRO",
+         "vlLiqNf":55942.21
+      },
+      {
+         "instancia":"USC",
+         "noNf":7169.0,
+         "cdSerieNf":"2",
+         "fazenda":"FAZENDA SANTA MARIA",
+         "vlLiqNf":56184.8
+      },
+      {
+         "instancia":"USC",
+         "noNf":7170.0,
+         "cdSerieNf":"2",
+         "fazenda":"FAZENDA SANTANA",
+         "vlLiqNf":17153.02
+      },
+      {
+         "instancia":"USC",
+         "noNf":7171.0,
+         "cdSerieNf":"2",
+         "fazenda":"FAZENDA SANTO ANTONIO",
+         "vlLiqNf":48848.58
+      },
+      {
+         "instancia":"USC",
+         "noNf":7172.0,
+         "cdSerieNf":"2",
+         "fazenda":"FAZENDA SAO BENTO",
+         "vlLiqNf":31914.51
+      },
+      {
+         "instancia":"USC",
+         "noNf":7173.0,
+         "cdSerieNf":"2",
+         "fazenda":"FAZENDA SAO CARLOS",
+         "vlLiqNf":45434.93
+      },
+      {
+         "instancia":"USC",
+         "noNf":7174.0,
+         "cdSerieNf":"2",
+         "fazenda":"FAZENDA SAO CARLOS",
+         "vlLiqNf":260.32
+      },
+      {
+         "instancia":"USC",
+         "noNf":7175.0,
+         "cdSerieNf":"2",
+         "fazenda":"FAZENDA SAO JOAO DO BARREIRO",
+         "vlLiqNf":54242.5
+      },
+      {
+         "instancia":"USC",
+         "noNf":7177.0,
+         "cdSerieNf":"2",
+         "fazenda":"FAZENDA SAO JOSE",
+         "vlLiqNf":71985.04
+      },
+      {
+         "instancia":"USC",
+         "noNf":7178.0,
+         "cdSerieNf":"2",
+         "fazenda":"FAZENDA SAO LOURENCO",
+         "vlLiqNf":44175.24
+      },
+      {
+         "instancia":"USC",
+         "noNf":7179.0,
+         "cdSerieNf":"2",
+         "fazenda":"SITIO BELA VISTA",
+         "vlLiqNf":5056.45
+      },
+      {
+         "instancia":"USC",
+         "noNf":7180.0,
+         "cdSerieNf":"2",
+         "fazenda":"SITIO BOA ESPERANCA",
+         "vlLiqNf":4673.88
+      },
+      {
+         "instancia":"USC",
+         "noNf":7181.0,
+         "cdSerieNf":"2",
+         "fazenda":"SITIO ESTIVA",
+         "vlLiqNf":9113.66
+      },
+      {
+         "instancia":"USC",
+         "noNf":7182.0,
+         "cdSerieNf":"2",
+         "fazenda":"SITIO EVANGELISTA",
+         "vlLiqNf":18704.17
+      },
+      {
+         "instancia":"USC",
+         "noNf":7120.0,
+         "cdSerieNf":"2",
+         "fazenda":"SITIO SAO JOSE CRUZEIRO",
+         "vlLiqNf":30847.82
+      },
+      {
+         "instancia":"USC",
+         "noNf":7121.0,
+         "cdSerieNf":"2",
+         "fazenda":"SITIO SAO JOSE CRUZEIRO",
+         "vlLiqNf":14355.73
+      },
+      {
+         "instancia":"USC",
+         "noNf":7122.0,
+         "cdSerieNf":"2",
+         "fazenda":"FAZENDA BOA ESPERANCA",
+         "vlLiqNf":268914.83
+      },
+      {
+         "instancia":"USC",
+         "noNf":7123.0,
+         "cdSerieNf":"2",
+         "fazenda":"FAZENDA SANTA JULIA",
+         "vlLiqNf":7838.13
+      },
+      {
+         "instancia":"USC",
+         "noNf":7124.0,
+         "cdSerieNf":"2",
+         "fazenda":"SITIO SANTA RITA",
+         "vlLiqNf":17364.88
+      },
+      {
+         "instancia":"USC",
+         "noNf":7125.0,
+         "cdSerieNf":"2",
+         "fazenda":"FAZENDA ESTIVA",
+         "vlLiqNf":11265.35
+      },
+      {
+         "instancia":"USC",
+         "noNf":7126.0,
+         "cdSerieNf":"2",
+         "fazenda":"FAZ SAO JOAO DO BARREIRO",
+         "vlLiqNf":22247.16
+      },
+      {
+         "instancia":"USC",
+         "noNf":7127.0,
+         "cdSerieNf":"2",
+         "fazenda":"FAZENDA SAO JOAQUIM",
+         "vlLiqNf":84879.3
+      },
+      {
+         "instancia":"USC",
+         "noNf":7128.0,
+         "cdSerieNf":"2",
+         "fazenda":"SITIO SAO JOSE",
+         "vlLiqNf":6476.21
+      },
+      {
+         "instancia":"USC",
+         "noNf":7129.0,
+         "cdSerieNf":"2",
+         "fazenda":"SITIO SAO JUDAS TADEU",
+         "vlLiqNf":44669.09
+      },
+      {
+         "instancia":"USC",
+         "noNf":7130.0,
+         "cdSerieNf":"2",
+         "fazenda":"CHACARA BALDAN",
+         "vlLiqNf":4582.12
+      },
+      {
+         "instancia":"USC",
+         "noNf":7259.0,
+         "cdSerieNf":"2",
+         "fazenda":"FAZENDA TANQUINHO I",
+         "vlLiqNf":222787.42
+      },
+      {
+         "instancia":"USC",
+         "noNf":7183.0,
+         "cdSerieNf":"2",
+         "fazenda":"SITIO EVANGELISTA",
+         "vlLiqNf":14681.65
+      }
+   ]
+}
