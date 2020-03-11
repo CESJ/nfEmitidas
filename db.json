@@ -1,19 +1,7 @@
 {
   "posts": [
-      {
-         "instancia":"USC",
-         "noNf":7259.0,
-         "cdSerieNf":"2",
-         "fazenda":"FAZENDA TANQUINHO I",
-         "vlLiqNf":222787.42
-      },
-      {
-         "instancia":"USC",
-         "noNf":7183.0,
-         "cdSerieNf":"2",
-         "fazenda":"SITIO EVANGELISTA",
-         "vlLiqNf":14681.65
-      }
+      {"instancia":"USC", "noNf":7259.0, "cdSerieNf":"2", "fazenda":"FAZENDA TANQUINHO I","vlLiqNf":222787.42},
+      {"instancia":"USC", "noNf":7183.0, "cdSerieNf":"2", "fazenda":"SITIO EVANGELISTA", "vlLiqNf":14681.65}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
